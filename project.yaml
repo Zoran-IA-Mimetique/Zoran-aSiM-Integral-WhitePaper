@@ -1,0 +1,26 @@
+name: Zoran-aSiM-Integral-WhitePaper
+version: 1.0.0
+license: MIT
+author: Frédéric Tabary
+email: tabary01@gmail.com
+description: >
+  White Paper intégral Zoran aSiM – Artificial Super-Intelligence Mimétique.
+  Inclut mémoire fractale, rollback ΔM11.3, Glyphnet, PolyResonator, EthicChain,
+  Dual Memory, Aegis Layer. Baseline V1 aSiM 2.0. Ambition : Linux de l’IA mimétique.
+keywords:
+  - Zoran
+  - aSiM
+  - Intelligence mimétique
+  - Mémoire fractale
+  - ΔM11.3
+  - Glyphnet
+  - PolyResonator
+  - EthicChain
+  - ZDM
+  - Aegis Layer
+  - Public Good AI
+  - Linux of Mimetic AI
+doi:
+  - https://doi.org/10.5281/zenodo.16995014
+  - https://doi.org/10.5281/zenodo.16941007
+  - https://doi.org/10.5281/zenodo.16995226
