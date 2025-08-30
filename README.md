@@ -1,3 +1,13 @@
+# Zoran-aSiM-Integral-WhitePaper  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17009712.svg)](https://doi.org/10.5281/zenodo.17009712)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+![Status](https://img.shields.io/badge/Status-Stable-blue.svg)  
+![Zoran aSiM](https://img.shields.io/badge/Zoran-aSiM-red.svg)  
+![Ethical AI](https://img.shields.io/badge/Ethical-AI-purple.svg)  
+![AI Act Compliant](https://img.shields.io/badge/AI%20Act-Compliant-brightgreen.svg)  
+![RGPD](https://img.shields.io/badge/RGPD-Conform-yellow.svg)
+
 # Zoran-aSiM-Integral-WhitePaper
 
 ## Résumé (150)
