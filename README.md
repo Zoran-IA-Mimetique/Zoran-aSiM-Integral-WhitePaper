@@ -33,3 +33,30 @@ Voir [summary_8000.md](meta/descriptors/summary_8000.md)
 
 ## Contact
 tabary01@gmail.com
+
+
+
+
+---
+
+📑 Index des White Papers Zoran aSiM
+
+#1 – Universal Manifesto (FR/EN)
+🔗 DOI Zenodo – 10.5281/zenodo.16995226
+
+#2 – Mémoire Fractale – Preuve positive
+🔗 DOI Zenodo – 10.5281/zenodo.16995014
+
+#3 – Mémoire par Absence Active – Preuve négative
+🔗 DOI Zenodo – 10.5281/zenodo.16941007
+
+#4 – OMSC Integral (Ontogenèse Mimétique / Science Cognitive)
+🔗 DOI Zenodo – 10.5281/zenodo.16995226
+
+#5 – Zoran-aSiM Integral White Paper (baseline V1 aSiM 2.0)
+🔗 DOI Zenodo – 10.5281/zenodo.17009712
+🔗 GitHub Repo – Zoran-aSiM-Integral-WhitePaper
+
+
+---
+
